@@ -1,0 +1,3 @@
+[submodule "mcdowell-cv"]
+	path = mcdowell-cv
+	url = https://github.com/dnl-blkv/mcdowell-cv.git

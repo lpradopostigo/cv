@@ -1,0 +1,11 @@
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.gz
+*.pdf
+.idea/
+out/
