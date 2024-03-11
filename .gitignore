@@ -7,5 +7,6 @@
 *.toc
 *.gz
 *.pdf
+*.bak*
 .idea/
 out/
