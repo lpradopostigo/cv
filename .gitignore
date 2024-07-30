@@ -8,5 +8,6 @@
 *.gz
 *.pdf
 *.bak*
+*.synctex*
 .idea/
 out/
